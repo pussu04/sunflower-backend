@@ -1,0 +1,23 @@
+# requirements.txt
+Flask==3.0.3
+Flask-Bcrypt==1.0.1
+Flask-Cors==5.0.0
+Flask-SQLAlchemy==3.1.1
+Flask-JWT-Extended==4.6.0
+SQLAlchemy==2.0.30
+python-dotenv==1.0.1
+PyJWT==2.9.0
+gunicorn==22.0.0
+psycopg2-binary==2.9.9
+
+# TensorFlow CPU (works with Python 3.11)
+tensorflow-cpu==2.12.0
+
+# TF 2.16.x compatible scientific stack
+numpy==1.23.5
+h5py==3.10.0
+
+opencv-python-headless==4.10.0.84
+Pillow==10.3.0
+cloudinary==1.41.0
+requests==2.31.0
